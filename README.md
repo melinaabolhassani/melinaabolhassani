@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Melina Abolhassani 👋
 
-<!--
-**melinaabolhassani/melinaabolhassani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student interested in Python programming, software development, and database management. I enjoy learning new technologies, solving problems, and building practical projects.
 
-Here are some ideas to get you started:
+### 💻 Interests & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python & Object-Oriented Programming
+- SQL & Database Management
+- Desktop Application Development
+- Data Analysis
+- Exploring new technologies in AI
+
+### 📚 Courses & Training
+
+- Python Programming – Tehran Technical Complex
+- SQL & Database Management – Tehran Technical Complex
+- Data Analysis – Tehran Technical Complex
+
+###
+
+### 🌐 Languages
+
+- English – C1 (Advanced Course Certificate, Safir Language Institute)
+
+### 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/melinaabolhassani/)
+- [GitHub](https://github.com/melinaabolhassani)
+
